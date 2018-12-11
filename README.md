@@ -2,7 +2,6 @@
 A Simple Trained LeNET Model
 
 # Model Summary
-=================================================================
 Layer (type)                 Output Shape              Param   
 =================================================================
 conv2d_1 (Conv2D)            (None, 24, 24, 6)         156       
@@ -23,3 +22,6 @@ Total params: 3,898
 Trainable params: 3,898
 Non-trainable params: 0
 _________________________________________________________________
+
+
+
